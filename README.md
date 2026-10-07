@@ -13,7 +13,7 @@ Each write-up records the method step by step, what failed as well as what worke
 | [Gralhix #004](exercises/gralhix-004-writeup.md) | Identify an island resort from an aerial photo | Reverse image search, first-party provenance | Solved; camera bearing outstanding |
 | [Gralhix #009](exercises/gralhix-009-writeup.md) | Time and place of a sunset video in Tirana | Metadata check, solar azimuth as a street filter, chronolocation | Solved |
 | [Trace Labs — camera](exercises/tracelabs-weekly-camera.md) | Which camera took this photo? | Earliest-instance reverse search, Wayback Machine, pivot to author | Solved |
-| [Trace Labs — church](exercises/tracelabs-weekly-church.md) | Where was this church photographed? | Reverse image search, source independence | Solved; independent verification pending |
+| [Trace Labs — church](exercises/tracelabs-weekly-church.md) | Where was this church photographed? | Reverse image search, source independence | Solved; independent verification not done |
 
 ## How I work
 

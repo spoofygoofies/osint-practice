@@ -42,7 +42,7 @@ used, by name.
 
 ## Answer
 
-`flag{...}` — [fill in]
+Flag accepted on submission; the exact value was not recorded in these notes. The camera model came from the photographer's own post (see Method, step 5).
 
 ---
 

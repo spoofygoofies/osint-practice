@@ -14,7 +14,7 @@
 Bandel Church (Basilica of the Holy Rosary), Bandel, Hooghly district, West Bengal,
 India. Portuguese foundation, one of the oldest churches in the region.
 
-**Coordinates:** [fill in — take from mapping data, not from memory]
+**Coordinates:** not recorded.
 
 ---
 
@@ -47,8 +47,9 @@ building as Bandel Church.
 
 **2. Name to location.** Looked up the church by name to obtain its position.
 
-**3. Verification.** [Confirm against satellite/street-level imagery and record what
-matched — see note below.]
+**3. Verification.** Not completed. The identification rests on the reverse image search
+label only; independent confirmation against satellite or street-level imagery was not
+done (see note below).
 
 ---
 
@@ -71,7 +72,7 @@ above the door.
 ## Limitations
 
 - Identification rests on labelling attached to a widely-copied image.
-- Independent verification against mapping imagery to be recorded.
+- Independent verification against mapping imagery not done.
 - Camera position and bearing not established — only the subject building.
 
 ---
